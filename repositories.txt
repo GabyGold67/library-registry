@@ -6126,3 +6126,4 @@ https://github.com/abcdaaaaaaaaa/MQSpaceData.h
 https://github.com/casiez/OneEuroFilterArduino
 https://github.com/EvTheFuture/WebConsole
 https://github.com/gbr1/ucPack
+https://github.com/GabyGold67/MomentaryPushButtonsAsSwitches
